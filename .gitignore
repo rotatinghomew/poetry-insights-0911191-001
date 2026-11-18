@@ -10,3 +10,7 @@ coverage/
 __pycache__/
 *.py[cod]
 .DS_Store
+examples/demo_data/
+examples/out/
+out/
+decisions.jsonl
