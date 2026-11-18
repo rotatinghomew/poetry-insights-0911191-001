@@ -1,0 +1,11 @@
+student_id,class_id,wave,score,answered
+S101,六一班,期初,6,true
+S101,六一班,期末,8,true
+S102,六一班,期初,7,true
+S102,六一班,期末,,false
+S210,六二班,期初,5,true
+S210,六二班,期末,6,true
+S301,五一班,期初,4,true
+S301,五一班,期末,7,true
+S404,五二班,期初,8,true
+S404,五二班,期末,8,true
